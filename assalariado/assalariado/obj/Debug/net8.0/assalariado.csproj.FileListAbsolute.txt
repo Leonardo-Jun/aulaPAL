@@ -1,0 +1,14 @@
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\assalariado\assalariado\obj\Debug\net8.0\assalariado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\assalariado\assalariado\obj\Debug\net8.0\assalariado.AssemblyInfoInputs.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\assalariado\assalariado\obj\Debug\net8.0\assalariado.AssemblyInfo.cs
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\assalariado\assalariado\obj\Debug\net8.0\assalariado.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\assalariado\assalariado\bin\Debug\net8.0\assalariado.exe
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\assalariado\assalariado\bin\Debug\net8.0\assalariado.deps.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\assalariado\assalariado\bin\Debug\net8.0\assalariado.runtimeconfig.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\assalariado\assalariado\bin\Debug\net8.0\assalariado.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\assalariado\assalariado\bin\Debug\net8.0\assalariado.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\assalariado\assalariado\obj\Debug\net8.0\assalariado.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\assalariado\assalariado\obj\Debug\net8.0\refint\assalariado.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\assalariado\assalariado\obj\Debug\net8.0\assalariado.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\assalariado\assalariado\obj\Debug\net8.0\assalariado.genruntimeconfig.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\assalariado\assalariado\obj\Debug\net8.0\ref\assalariado.dll

@@ -1,0 +1,14 @@
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemploFor_2\exemploFor_2\bin\Debug\net8.0\exemploFor_2.exe
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemploFor_2\exemploFor_2\bin\Debug\net8.0\exemploFor_2.deps.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemploFor_2\exemploFor_2\bin\Debug\net8.0\exemploFor_2.runtimeconfig.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemploFor_2\exemploFor_2\bin\Debug\net8.0\exemploFor_2.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemploFor_2\exemploFor_2\bin\Debug\net8.0\exemploFor_2.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemploFor_2\exemploFor_2\obj\Debug\net8.0\exemploFor_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemploFor_2\exemploFor_2\obj\Debug\net8.0\exemploFor_2.AssemblyInfoInputs.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemploFor_2\exemploFor_2\obj\Debug\net8.0\exemploFor_2.AssemblyInfo.cs
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemploFor_2\exemploFor_2\obj\Debug\net8.0\exemploFor_2.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemploFor_2\exemploFor_2\obj\Debug\net8.0\exemploFor_2.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemploFor_2\exemploFor_2\obj\Debug\net8.0\refint\exemploFor_2.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemploFor_2\exemploFor_2\obj\Debug\net8.0\exemploFor_2.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemploFor_2\exemploFor_2\obj\Debug\net8.0\exemploFor_2.genruntimeconfig.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemploFor_2\exemploFor_2\obj\Debug\net8.0\ref\exemploFor_2.dll

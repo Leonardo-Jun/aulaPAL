@@ -1,0 +1,14 @@
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\for_aoQuadrado\for_aoQuadrado\obj\Debug\net8.0\for_aoQuadrado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\for_aoQuadrado\for_aoQuadrado\obj\Debug\net8.0\for_aoQuadrado.AssemblyInfoInputs.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\for_aoQuadrado\for_aoQuadrado\obj\Debug\net8.0\for_aoQuadrado.AssemblyInfo.cs
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\for_aoQuadrado\for_aoQuadrado\obj\Debug\net8.0\for_aoQuadrado.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\for_aoQuadrado\for_aoQuadrado\bin\Debug\net8.0\for_aoQuadrado.exe
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\for_aoQuadrado\for_aoQuadrado\bin\Debug\net8.0\for_aoQuadrado.deps.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\for_aoQuadrado\for_aoQuadrado\bin\Debug\net8.0\for_aoQuadrado.runtimeconfig.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\for_aoQuadrado\for_aoQuadrado\bin\Debug\net8.0\for_aoQuadrado.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\for_aoQuadrado\for_aoQuadrado\bin\Debug\net8.0\for_aoQuadrado.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\for_aoQuadrado\for_aoQuadrado\obj\Debug\net8.0\for_aoQuadrado.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\for_aoQuadrado\for_aoQuadrado\obj\Debug\net8.0\refint\for_aoQuadrado.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\for_aoQuadrado\for_aoQuadrado\obj\Debug\net8.0\for_aoQuadrado.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\for_aoQuadrado\for_aoQuadrado\obj\Debug\net8.0\for_aoQuadrado.genruntimeconfig.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\for_aoQuadrado\for_aoQuadrado\obj\Debug\net8.0\ref\for_aoQuadrado.dll
