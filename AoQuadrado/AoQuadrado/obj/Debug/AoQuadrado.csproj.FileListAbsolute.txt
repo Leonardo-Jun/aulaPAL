@@ -1,0 +1,5 @@
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\AoQuadrado\AoQuadrado\bin\Debug\AoQuadrado.exe.config
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\AoQuadrado\AoQuadrado\bin\Debug\AoQuadrado.exe
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\AoQuadrado\AoQuadrado\bin\Debug\AoQuadrado.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\AoQuadrado\AoQuadrado\obj\Debug\AoQuadrado.exe
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\AoQuadrado\AoQuadrado\obj\Debug\AoQuadrado.pdb

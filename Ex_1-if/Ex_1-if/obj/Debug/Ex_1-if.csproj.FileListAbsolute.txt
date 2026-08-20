@@ -1,0 +1,5 @@
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\Ex_1-if\Ex_1-if\bin\Debug\Ex_1-if.exe.config
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\Ex_1-if\Ex_1-if\bin\Debug\Ex_1-if.exe
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\Ex_1-if\Ex_1-if\bin\Debug\Ex_1-if.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\Ex_1-if\Ex_1-if\obj\Debug\Ex_1-if.exe
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\Ex_1-if\Ex_1-if\obj\Debug\Ex_1-if.pdb

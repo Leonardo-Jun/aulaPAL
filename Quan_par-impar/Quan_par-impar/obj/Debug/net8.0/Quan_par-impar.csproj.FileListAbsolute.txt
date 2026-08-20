@@ -1,0 +1,15 @@
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Quan_par-impar\Quan_par-impar\bin\Debug\net8.0\Quan_par-impar.exe
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Quan_par-impar\Quan_par-impar\bin\Debug\net8.0\Quan_par-impar.deps.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Quan_par-impar\Quan_par-impar\bin\Debug\net8.0\Quan_par-impar.runtimeconfig.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Quan_par-impar\Quan_par-impar\bin\Debug\net8.0\Quan_par-impar.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Quan_par-impar\Quan_par-impar\bin\Debug\net8.0\Quan_par-impar.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Quan_par-impar\Quan_par-impar\obj\Debug\net8.0\Quan_par-impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Quan_par-impar\Quan_par-impar\obj\Debug\net8.0\Quan_par-impar.AssemblyInfoInputs.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Quan_par-impar\Quan_par-impar\obj\Debug\net8.0\Quan_par-impar.AssemblyInfo.cs
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Quan_par-impar\Quan_par-impar\obj\Debug\net8.0\Quan_par-impar.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Quan_par-impar\Quan_par-impar\obj\Debug\net8.0\Quan_par-impar.sourcelink.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Quan_par-impar\Quan_par-impar\obj\Debug\net8.0\Quan_par-impar.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Quan_par-impar\Quan_par-impar\obj\Debug\net8.0\refint\Quan_par-impar.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Quan_par-impar\Quan_par-impar\obj\Debug\net8.0\Quan_par-impar.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Quan_par-impar\Quan_par-impar\obj\Debug\net8.0\Quan_par-impar.genruntimeconfig.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Quan_par-impar\Quan_par-impar\obj\Debug\net8.0\ref\Quan_par-impar.dll

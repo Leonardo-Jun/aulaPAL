@@ -1,0 +1,6 @@
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\Exemplo.Soma\Exemplo.Soma\bin\Debug\Exemplo.Soma.exe.config
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\Exemplo.Soma\Exemplo.Soma\obj\Debug\Exemplo.Soma.csprojResolveAssemblyReference.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\Exemplo.Soma\Exemplo.Soma\bin\Debug\Exemplo.Soma.exe
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\Exemplo.Soma\Exemplo.Soma\bin\Debug\Exemplo.Soma.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\Exemplo.Soma\Exemplo.Soma\obj\Debug\Exemplo.Soma.exe
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\Exemplo.Soma\Exemplo.Soma\obj\Debug\Exemplo.Soma.pdb

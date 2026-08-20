@@ -1,0 +1,5 @@
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\salario_professor\salario_professor\bin\Debug\salario_professor.exe.config
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\salario_professor\salario_professor\bin\Debug\salario_professor.exe
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\salario_professor\salario_professor\bin\Debug\salario_professor.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\salario_professor\salario_professor\obj\Debug\salario_professor.exe
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\salario_professor\salario_professor\obj\Debug\salario_professor.pdb

@@ -1,0 +1,5 @@
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\Area_triangulo\Area_triangulo\bin\Debug\Area_triangulo.exe.config
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\Area_triangulo\Area_triangulo\bin\Debug\Area_triangulo.exe
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\Area_triangulo\Area_triangulo\bin\Debug\Area_triangulo.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\Area_triangulo\Area_triangulo\obj\Debug\Area_triangulo.exe
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\Area_triangulo\Area_triangulo\obj\Debug\Area_triangulo.pdb

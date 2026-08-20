@@ -1,0 +1,6 @@
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\Exemplo.Raio\Exemplo.Raio\bin\Debug\Exemplo.Raio.exe.config
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\Exemplo.Raio\Exemplo.Raio\obj\Debug\Exemplo.Raio.csprojResolveAssemblyReference.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\Exemplo.Raio\Exemplo.Raio\bin\Debug\Exemplo.Raio.exe
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\Exemplo.Raio\Exemplo.Raio\bin\Debug\Exemplo.Raio.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\Exemplo.Raio\Exemplo.Raio\obj\Debug\Exemplo.Raio.exe
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\Exemplo.Raio\Exemplo.Raio\obj\Debug\Exemplo.Raio.pdb

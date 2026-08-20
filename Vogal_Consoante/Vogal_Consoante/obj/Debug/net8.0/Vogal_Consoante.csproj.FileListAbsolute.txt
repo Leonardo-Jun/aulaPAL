@@ -1,0 +1,15 @@
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Vogal_Consoante\Vogal_Consoante\obj\Debug\net8.0\Vogal_Consoante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Vogal_Consoante\Vogal_Consoante\obj\Debug\net8.0\Vogal_Consoante.AssemblyInfoInputs.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Vogal_Consoante\Vogal_Consoante\obj\Debug\net8.0\Vogal_Consoante.AssemblyInfo.cs
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Vogal_Consoante\Vogal_Consoante\obj\Debug\net8.0\Vogal_Consoante.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Vogal_Consoante\Vogal_Consoante\obj\Debug\net8.0\Vogal_Consoante.sourcelink.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Vogal_Consoante\Vogal_Consoante\bin\Debug\net8.0\Vogal_Consoante.exe
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Vogal_Consoante\Vogal_Consoante\bin\Debug\net8.0\Vogal_Consoante.deps.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Vogal_Consoante\Vogal_Consoante\bin\Debug\net8.0\Vogal_Consoante.runtimeconfig.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Vogal_Consoante\Vogal_Consoante\bin\Debug\net8.0\Vogal_Consoante.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Vogal_Consoante\Vogal_Consoante\bin\Debug\net8.0\Vogal_Consoante.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Vogal_Consoante\Vogal_Consoante\obj\Debug\net8.0\Vogal_Consoante.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Vogal_Consoante\Vogal_Consoante\obj\Debug\net8.0\refint\Vogal_Consoante.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Vogal_Consoante\Vogal_Consoante\obj\Debug\net8.0\Vogal_Consoante.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Vogal_Consoante\Vogal_Consoante\obj\Debug\net8.0\Vogal_Consoante.genruntimeconfig.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Vogal_Consoante\Vogal_Consoante\obj\Debug\net8.0\ref\Vogal_Consoante.dll

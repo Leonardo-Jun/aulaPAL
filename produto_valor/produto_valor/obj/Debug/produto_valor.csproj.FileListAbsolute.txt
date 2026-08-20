@@ -1,0 +1,6 @@
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\produto_valor\produto_valor\bin\Debug\produto_valor.exe.config
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\produto_valor\produto_valor\bin\Debug\produto_valor.exe
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\produto_valor\produto_valor\bin\Debug\produto_valor.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\produto_valor\produto_valor\obj\Debug\produto_valor.csprojResolveAssemblyReference.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\produto_valor\produto_valor\obj\Debug\produto_valor.exe
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\produto_valor\produto_valor\obj\Debug\produto_valor.pdb

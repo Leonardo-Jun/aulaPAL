@@ -1,0 +1,5 @@
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\sen_cos_tang\sen_cos_tang\bin\Debug\sen_cos_tang.exe.config
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\sen_cos_tang\sen_cos_tang\bin\Debug\sen_cos_tang.exe
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\sen_cos_tang\sen_cos_tang\bin\Debug\sen_cos_tang.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\sen_cos_tang\sen_cos_tang\obj\Debug\sen_cos_tang.exe
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\sen_cos_tang\sen_cos_tang\obj\Debug\sen_cos_tang.pdb

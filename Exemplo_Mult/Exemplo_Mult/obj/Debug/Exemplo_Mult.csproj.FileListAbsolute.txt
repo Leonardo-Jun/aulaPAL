@@ -1,0 +1,6 @@
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\Exemplo_Mult\Exemplo_Mult\bin\Debug\Exemplo_Mult.exe.config
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\Exemplo_Mult\Exemplo_Mult\obj\Debug\Exemplo_Mult.csprojResolveAssemblyReference.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\Exemplo_Mult\Exemplo_Mult\bin\Debug\Exemplo_Mult.exe
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\Exemplo_Mult\Exemplo_Mult\bin\Debug\Exemplo_Mult.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\Exemplo_Mult\Exemplo_Mult\obj\Debug\Exemplo_Mult.exe
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\Exemplo_Mult\Exemplo_Mult\obj\Debug\Exemplo_Mult.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Quan_par-impar/1.0.0": {
+        "runtime": {
+          "Quan_par-impar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Quan_par-impar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

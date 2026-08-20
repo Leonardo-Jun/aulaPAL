@@ -1,0 +1,15 @@
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Votos_de_eleitores\Votos_de_eleitores\obj\Debug\net8.0\Votos_de_eleitores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Votos_de_eleitores\Votos_de_eleitores\obj\Debug\net8.0\Votos_de_eleitores.AssemblyInfoInputs.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Votos_de_eleitores\Votos_de_eleitores\obj\Debug\net8.0\Votos_de_eleitores.AssemblyInfo.cs
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Votos_de_eleitores\Votos_de_eleitores\obj\Debug\net8.0\Votos_de_eleitores.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Votos_de_eleitores\Votos_de_eleitores\obj\Debug\net8.0\Votos_de_eleitores.sourcelink.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Votos_de_eleitores\Votos_de_eleitores\bin\Debug\net8.0\Votos_de_eleitores.exe
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Votos_de_eleitores\Votos_de_eleitores\bin\Debug\net8.0\Votos_de_eleitores.deps.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Votos_de_eleitores\Votos_de_eleitores\bin\Debug\net8.0\Votos_de_eleitores.runtimeconfig.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Votos_de_eleitores\Votos_de_eleitores\bin\Debug\net8.0\Votos_de_eleitores.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Votos_de_eleitores\Votos_de_eleitores\bin\Debug\net8.0\Votos_de_eleitores.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Votos_de_eleitores\Votos_de_eleitores\obj\Debug\net8.0\Votos_de_eleitores.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Votos_de_eleitores\Votos_de_eleitores\obj\Debug\net8.0\refint\Votos_de_eleitores.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Votos_de_eleitores\Votos_de_eleitores\obj\Debug\net8.0\Votos_de_eleitores.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Votos_de_eleitores\Votos_de_eleitores\obj\Debug\net8.0\Votos_de_eleitores.genruntimeconfig.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Votos_de_eleitores\Votos_de_eleitores\obj\Debug\net8.0\ref\Votos_de_eleitores.dll

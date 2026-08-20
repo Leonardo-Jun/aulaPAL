@@ -1,0 +1,15 @@
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Menor_Igual_Maior\Menor_Igual_Maior\bin\Debug\net8.0\Menor_Igual_Maior.exe
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Menor_Igual_Maior\Menor_Igual_Maior\bin\Debug\net8.0\Menor_Igual_Maior.deps.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Menor_Igual_Maior\Menor_Igual_Maior\bin\Debug\net8.0\Menor_Igual_Maior.runtimeconfig.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Menor_Igual_Maior\Menor_Igual_Maior\bin\Debug\net8.0\Menor_Igual_Maior.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Menor_Igual_Maior\Menor_Igual_Maior\bin\Debug\net8.0\Menor_Igual_Maior.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Menor_Igual_Maior\Menor_Igual_Maior\obj\Debug\net8.0\Menor_Igual_Maior.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Menor_Igual_Maior\Menor_Igual_Maior\obj\Debug\net8.0\Menor_Igual_Maior.AssemblyInfoInputs.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Menor_Igual_Maior\Menor_Igual_Maior\obj\Debug\net8.0\Menor_Igual_Maior.AssemblyInfo.cs
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Menor_Igual_Maior\Menor_Igual_Maior\obj\Debug\net8.0\Menor_Igual_Maior.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Menor_Igual_Maior\Menor_Igual_Maior\obj\Debug\net8.0\Menor_Igual_Maior.sourcelink.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Menor_Igual_Maior\Menor_Igual_Maior\obj\Debug\net8.0\Menor_Igual_Maior.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Menor_Igual_Maior\Menor_Igual_Maior\obj\Debug\net8.0\refint\Menor_Igual_Maior.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Menor_Igual_Maior\Menor_Igual_Maior\obj\Debug\net8.0\Menor_Igual_Maior.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Menor_Igual_Maior\Menor_Igual_Maior\obj\Debug\net8.0\Menor_Igual_Maior.genruntimeconfig.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Menor_Igual_Maior\Menor_Igual_Maior\obj\Debug\net8.0\ref\Menor_Igual_Maior.dll

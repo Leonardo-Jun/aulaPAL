@@ -1,0 +1,6 @@
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\Area_Cubo\Area_Cubo\bin\Debug\Area_Cubo.exe.config
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\Area_Cubo\Area_Cubo\bin\Debug\Area_Cubo.exe
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\Area_Cubo\Area_Cubo\bin\Debug\Area_Cubo.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\Area_Cubo\Area_Cubo\obj\Debug\Area_Cubo.csprojResolveAssemblyReference.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\Area_Cubo\Area_Cubo\obj\Debug\Area_Cubo.exe
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\Area_Cubo\Area_Cubo\obj\Debug\Area_Cubo.pdb

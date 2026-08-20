@@ -1,0 +1,6 @@
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\Tarefa_1\Tarefa_1\bin\Debug\Tarefa_1.exe.config
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\Tarefa_1\Tarefa_1\bin\Debug\Tarefa_1.exe
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\Tarefa_1\Tarefa_1\bin\Debug\Tarefa_1.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\Tarefa_1\Tarefa_1\obj\Debug\Tarefa_1.csprojResolveAssemblyReference.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\Tarefa_1\Tarefa_1\obj\Debug\Tarefa_1.exe
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\Tarefa_1\Tarefa_1\obj\Debug\Tarefa_1.pdb

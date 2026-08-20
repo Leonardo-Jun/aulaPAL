@@ -1,0 +1,2 @@
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\exemplo_if\exemplo_if\bin\Debug\exemplo_if.exe.config
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\exemplo_if\exemplo_if\obj\Debug\exemplo_if.csprojResolveAssemblyReference.cache

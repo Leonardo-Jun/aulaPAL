@@ -1,0 +1,5 @@
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\Tarefa_3\Tarefa_3\bin\Debug\Tarefa_3.exe.config
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\Tarefa_3\Tarefa_3\bin\Debug\Tarefa_3.exe
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\Tarefa_3\Tarefa_3\bin\Debug\Tarefa_3.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\Tarefa_3\Tarefa_3\obj\Debug\Tarefa_3.exe
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\PAL Prof Luiz\Tarefa_3\Tarefa_3\obj\Debug\Tarefa_3.pdb
