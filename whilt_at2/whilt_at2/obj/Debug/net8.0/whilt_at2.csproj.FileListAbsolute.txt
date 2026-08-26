@@ -1,0 +1,15 @@
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\whilt_at2\whilt_at2\bin\Debug\net8.0\whilt_at2.exe
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\whilt_at2\whilt_at2\bin\Debug\net8.0\whilt_at2.deps.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\whilt_at2\whilt_at2\bin\Debug\net8.0\whilt_at2.runtimeconfig.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\whilt_at2\whilt_at2\bin\Debug\net8.0\whilt_at2.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\whilt_at2\whilt_at2\bin\Debug\net8.0\whilt_at2.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\whilt_at2\whilt_at2\obj\Debug\net8.0\whilt_at2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\whilt_at2\whilt_at2\obj\Debug\net8.0\whilt_at2.AssemblyInfoInputs.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\whilt_at2\whilt_at2\obj\Debug\net8.0\whilt_at2.AssemblyInfo.cs
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\whilt_at2\whilt_at2\obj\Debug\net8.0\whilt_at2.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\whilt_at2\whilt_at2\obj\Debug\net8.0\whilt_at2.sourcelink.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\whilt_at2\whilt_at2\obj\Debug\net8.0\whilt_at2.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\whilt_at2\whilt_at2\obj\Debug\net8.0\refint\whilt_at2.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\whilt_at2\whilt_at2\obj\Debug\net8.0\whilt_at2.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\whilt_at2\whilt_at2\obj\Debug\net8.0\whilt_at2.genruntimeconfig.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\whilt_at2\whilt_at2\obj\Debug\net8.0\ref\whilt_at2.dll

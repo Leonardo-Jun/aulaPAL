@@ -1,0 +1,15 @@
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemplo_while\exemplo_while\bin\Debug\net8.0\exemplo_while.exe
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemplo_while\exemplo_while\bin\Debug\net8.0\exemplo_while.deps.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemplo_while\exemplo_while\bin\Debug\net8.0\exemplo_while.runtimeconfig.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemplo_while\exemplo_while\bin\Debug\net8.0\exemplo_while.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemplo_while\exemplo_while\bin\Debug\net8.0\exemplo_while.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemplo_while\exemplo_while\obj\Debug\net8.0\exemplo_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemplo_while\exemplo_while\obj\Debug\net8.0\exemplo_while.AssemblyInfoInputs.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemplo_while\exemplo_while\obj\Debug\net8.0\exemplo_while.AssemblyInfo.cs
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemplo_while\exemplo_while\obj\Debug\net8.0\exemplo_while.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemplo_while\exemplo_while\obj\Debug\net8.0\exemplo_while.sourcelink.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemplo_while\exemplo_while\obj\Debug\net8.0\exemplo_while.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemplo_while\exemplo_while\obj\Debug\net8.0\refint\exemplo_while.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemplo_while\exemplo_while\obj\Debug\net8.0\exemplo_while.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemplo_while\exemplo_while\obj\Debug\net8.0\exemplo_while.genruntimeconfig.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemplo_while\exemplo_while\obj\Debug\net8.0\ref\exemplo_while.dll

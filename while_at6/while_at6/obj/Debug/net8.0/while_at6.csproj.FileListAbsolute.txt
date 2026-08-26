@@ -1,0 +1,15 @@
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\while_at6\while_at6\bin\Debug\net8.0\while_at6.exe
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\while_at6\while_at6\bin\Debug\net8.0\while_at6.deps.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\while_at6\while_at6\bin\Debug\net8.0\while_at6.runtimeconfig.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\while_at6\while_at6\bin\Debug\net8.0\while_at6.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\while_at6\while_at6\bin\Debug\net8.0\while_at6.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\while_at6\while_at6\obj\Debug\net8.0\while_at6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\while_at6\while_at6\obj\Debug\net8.0\while_at6.AssemblyInfoInputs.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\while_at6\while_at6\obj\Debug\net8.0\while_at6.AssemblyInfo.cs
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\while_at6\while_at6\obj\Debug\net8.0\while_at6.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\while_at6\while_at6\obj\Debug\net8.0\while_at6.sourcelink.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\while_at6\while_at6\obj\Debug\net8.0\while_at6.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\while_at6\while_at6\obj\Debug\net8.0\refint\while_at6.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\while_at6\while_at6\obj\Debug\net8.0\while_at6.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\while_at6\while_at6\obj\Debug\net8.0\while_at6.genruntimeconfig.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\while_at6\while_at6\obj\Debug\net8.0\ref\while_at6.dll

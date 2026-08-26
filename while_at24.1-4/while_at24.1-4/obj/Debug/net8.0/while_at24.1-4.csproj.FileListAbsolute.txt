@@ -1,0 +1,15 @@
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\while_at24.1-4\while_at24.1-4\bin\Debug\net8.0\while_at24.1-4.exe
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\while_at24.1-4\while_at24.1-4\bin\Debug\net8.0\while_at24.1-4.deps.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\while_at24.1-4\while_at24.1-4\bin\Debug\net8.0\while_at24.1-4.runtimeconfig.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\while_at24.1-4\while_at24.1-4\bin\Debug\net8.0\while_at24.1-4.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\while_at24.1-4\while_at24.1-4\bin\Debug\net8.0\while_at24.1-4.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\while_at24.1-4\while_at24.1-4\obj\Debug\net8.0\while_at24.1-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\while_at24.1-4\while_at24.1-4\obj\Debug\net8.0\while_at24.1-4.AssemblyInfoInputs.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\while_at24.1-4\while_at24.1-4\obj\Debug\net8.0\while_at24.1-4.AssemblyInfo.cs
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\while_at24.1-4\while_at24.1-4\obj\Debug\net8.0\while_at24.1-4.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\while_at24.1-4\while_at24.1-4\obj\Debug\net8.0\while_at24.1-4.sourcelink.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\while_at24.1-4\while_at24.1-4\obj\Debug\net8.0\while_at24.1-4.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\while_at24.1-4\while_at24.1-4\obj\Debug\net8.0\refint\while_at24.1-4.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\while_at24.1-4\while_at24.1-4\obj\Debug\net8.0\while_at24.1-4.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\while_at24.1-4\while_at24.1-4\obj\Debug\net8.0\while_at24.1-4.genruntimeconfig.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\while_at24.1-4\while_at24.1-4\obj\Debug\net8.0\ref\while_at24.1-4.dll
