@@ -1,0 +1,15 @@
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Atividade_while7\Atividade_while7\bin\Debug\net8.0\Atividade_while7.exe
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Atividade_while7\Atividade_while7\bin\Debug\net8.0\Atividade_while7.deps.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Atividade_while7\Atividade_while7\bin\Debug\net8.0\Atividade_while7.runtimeconfig.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Atividade_while7\Atividade_while7\bin\Debug\net8.0\Atividade_while7.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Atividade_while7\Atividade_while7\bin\Debug\net8.0\Atividade_while7.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Atividade_while7\Atividade_while7\obj\Debug\net8.0\Atividade_while7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Atividade_while7\Atividade_while7\obj\Debug\net8.0\Atividade_while7.AssemblyInfoInputs.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Atividade_while7\Atividade_while7\obj\Debug\net8.0\Atividade_while7.AssemblyInfo.cs
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Atividade_while7\Atividade_while7\obj\Debug\net8.0\Atividade_while7.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Atividade_while7\Atividade_while7\obj\Debug\net8.0\Atividade_while7.sourcelink.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Atividade_while7\Atividade_while7\obj\Debug\net8.0\Atividade_while7.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Atividade_while7\Atividade_while7\obj\Debug\net8.0\refint\Atividade_while7.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Atividade_while7\Atividade_while7\obj\Debug\net8.0\Atividade_while7.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Atividade_while7\Atividade_while7\obj\Debug\net8.0\Atividade_while7.genruntimeconfig.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\Atividade_while7\Atividade_while7\obj\Debug\net8.0\ref\Atividade_while7.dll

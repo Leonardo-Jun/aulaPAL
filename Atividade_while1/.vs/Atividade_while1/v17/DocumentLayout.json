@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leonardo.tateyama\\OneDrive - Centro Paula Souza\\\u00C1rea de Trabalho\\sor Luiz\\Atividade_while1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0850A11-1B13-424E-B870-91400CD94D74}|Atividade_while1\\Atividade_while1.csproj|c:\\users\\leonardo.tateyama\\onedrive - centro paula souza\\\u00E1rea de trabalho\\sor luiz\\atividade_while1\\atividade_while1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0850A11-1B13-424E-B870-91400CD94D74}|Atividade_while1\\Atividade_while1.csproj|solutionrelative:atividade_while1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leonardo.tateyama\\OneDrive - Centro Paula Souza\\\u00C1rea de Trabalho\\sor Luiz\\Atividade_while1\\Atividade_while1\\Program.cs",
+              "RelativeDocumentMoniker": "Atividade_while1\\Program.cs",
+              "ToolTip": "C:\\Users\\leonardo.tateyama\\OneDrive - Centro Paula Souza\\\u00C1rea de Trabalho\\sor Luiz\\Atividade_while1\\Atividade_while1\\Program.cs",
+              "RelativeToolTip": "Atividade_while1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T17:55:59.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
