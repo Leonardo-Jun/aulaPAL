@@ -1,0 +1,15 @@
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\prova14.3\prova14.3\bin\Debug\net8.0\prova14.3.exe
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\prova14.3\prova14.3\bin\Debug\net8.0\prova14.3.deps.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\prova14.3\prova14.3\bin\Debug\net8.0\prova14.3.runtimeconfig.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\prova14.3\prova14.3\bin\Debug\net8.0\prova14.3.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\prova14.3\prova14.3\bin\Debug\net8.0\prova14.3.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\prova14.3\prova14.3\obj\Debug\net8.0\prova14.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\prova14.3\prova14.3\obj\Debug\net8.0\prova14.3.AssemblyInfoInputs.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\prova14.3\prova14.3\obj\Debug\net8.0\prova14.3.AssemblyInfo.cs
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\prova14.3\prova14.3\obj\Debug\net8.0\prova14.3.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\prova14.3\prova14.3\obj\Debug\net8.0\prova14.3.sourcelink.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\prova14.3\prova14.3\obj\Debug\net8.0\prova14.3.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\prova14.3\prova14.3\obj\Debug\net8.0\refint\prova14.3.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\prova14.3\prova14.3\obj\Debug\net8.0\prova14.3.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\prova14.3\prova14.3\obj\Debug\net8.0\prova14.3.genruntimeconfig.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\prova14.3\prova14.3\obj\Debug\net8.0\ref\prova14.3.dll
