@@ -1,0 +1,25 @@
+Vetor(Array)
+
+Para criar o vetor:
+int[] vetor = new int[3];
+
+int[] //tipo do vetor
+vetor //nome do vetor
+new //comando para criar vetor 
+int[3]; //define o tamanho do vetor
+
+[ 20][ 50][ 90][100]
+[ 0 ][ 1 ][ 2 ][ 3 ]
+
+vetor[0]=20;
+vetor[1]=50;
+vetor[2]=90;
+vetor[3]=100;
+
+Vetor Dinâmico 
+
+int[] vetor={20,50,90,100}
+->[ 20][ 50][ 90][100]
+    0    1    2    3
+
+No vetor dinâmico , os valores são armazenados , separando cada valor com vírgula . Cada posição do vetor esta representando , pelas vírgulas. 

@@ -1,0 +1,15 @@
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemplo.vetor-string\exemplo.vetor-string\bin\Debug\net8.0\exemplo.vetor-string.exe
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemplo.vetor-string\exemplo.vetor-string\bin\Debug\net8.0\exemplo.vetor-string.deps.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemplo.vetor-string\exemplo.vetor-string\bin\Debug\net8.0\exemplo.vetor-string.runtimeconfig.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemplo.vetor-string\exemplo.vetor-string\bin\Debug\net8.0\exemplo.vetor-string.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemplo.vetor-string\exemplo.vetor-string\bin\Debug\net8.0\exemplo.vetor-string.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemplo.vetor-string\exemplo.vetor-string\obj\Debug\net8.0\exemplo.vetor-string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemplo.vetor-string\exemplo.vetor-string\obj\Debug\net8.0\exemplo.vetor-string.AssemblyInfoInputs.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemplo.vetor-string\exemplo.vetor-string\obj\Debug\net8.0\exemplo.vetor-string.AssemblyInfo.cs
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemplo.vetor-string\exemplo.vetor-string\obj\Debug\net8.0\exemplo.vetor-string.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemplo.vetor-string\exemplo.vetor-string\obj\Debug\net8.0\exemplo.vetor-string.sourcelink.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemplo.vetor-string\exemplo.vetor-string\obj\Debug\net8.0\exemplo.vetor-string.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemplo.vetor-string\exemplo.vetor-string\obj\Debug\net8.0\refint\exemplo.vetor-string.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemplo.vetor-string\exemplo.vetor-string\obj\Debug\net8.0\exemplo.vetor-string.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemplo.vetor-string\exemplo.vetor-string\obj\Debug\net8.0\exemplo.vetor-string.genruntimeconfig.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemplo.vetor-string\exemplo.vetor-string\obj\Debug\net8.0\ref\exemplo.vetor-string.dll

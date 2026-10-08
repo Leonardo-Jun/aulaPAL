@@ -1,0 +1,15 @@
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemplo.vetor\exemplo.vetor\bin\Debug\net8.0\exemplo.vetor.exe
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemplo.vetor\exemplo.vetor\bin\Debug\net8.0\exemplo.vetor.deps.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemplo.vetor\exemplo.vetor\bin\Debug\net8.0\exemplo.vetor.runtimeconfig.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemplo.vetor\exemplo.vetor\bin\Debug\net8.0\exemplo.vetor.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemplo.vetor\exemplo.vetor\bin\Debug\net8.0\exemplo.vetor.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemplo.vetor\exemplo.vetor\obj\Debug\net8.0\exemplo.vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemplo.vetor\exemplo.vetor\obj\Debug\net8.0\exemplo.vetor.AssemblyInfoInputs.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemplo.vetor\exemplo.vetor\obj\Debug\net8.0\exemplo.vetor.AssemblyInfo.cs
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemplo.vetor\exemplo.vetor\obj\Debug\net8.0\exemplo.vetor.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemplo.vetor\exemplo.vetor\obj\Debug\net8.0\exemplo.vetor.sourcelink.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemplo.vetor\exemplo.vetor\obj\Debug\net8.0\exemplo.vetor.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemplo.vetor\exemplo.vetor\obj\Debug\net8.0\refint\exemplo.vetor.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemplo.vetor\exemplo.vetor\obj\Debug\net8.0\exemplo.vetor.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemplo.vetor\exemplo.vetor\obj\Debug\net8.0\exemplo.vetor.genruntimeconfig.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\exemplo.vetor\exemplo.vetor\obj\Debug\net8.0\ref\exemplo.vetor.dll

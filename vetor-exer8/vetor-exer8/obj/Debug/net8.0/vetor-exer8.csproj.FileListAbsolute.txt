@@ -1,0 +1,15 @@
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\vetor-exer8\vetor-exer8\bin\Debug\net8.0\vetor-exer8.exe
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\vetor-exer8\vetor-exer8\bin\Debug\net8.0\vetor-exer8.deps.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\vetor-exer8\vetor-exer8\bin\Debug\net8.0\vetor-exer8.runtimeconfig.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\vetor-exer8\vetor-exer8\bin\Debug\net8.0\vetor-exer8.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\vetor-exer8\vetor-exer8\bin\Debug\net8.0\vetor-exer8.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\vetor-exer8\vetor-exer8\obj\Debug\net8.0\vetor-exer8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\vetor-exer8\vetor-exer8\obj\Debug\net8.0\vetor-exer8.AssemblyInfoInputs.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\vetor-exer8\vetor-exer8\obj\Debug\net8.0\vetor-exer8.AssemblyInfo.cs
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\vetor-exer8\vetor-exer8\obj\Debug\net8.0\vetor-exer8.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\vetor-exer8\vetor-exer8\obj\Debug\net8.0\vetor-exer8.sourcelink.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\vetor-exer8\vetor-exer8\obj\Debug\net8.0\vetor-exer8.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\vetor-exer8\vetor-exer8\obj\Debug\net8.0\refint\vetor-exer8.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\vetor-exer8\vetor-exer8\obj\Debug\net8.0\vetor-exer8.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\vetor-exer8\vetor-exer8\obj\Debug\net8.0\vetor-exer8.genruntimeconfig.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\vetor-exer8\vetor-exer8\obj\Debug\net8.0\ref\vetor-exer8.dll

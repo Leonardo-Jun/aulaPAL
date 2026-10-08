@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "vetor-exer1/1.0.0": {
+        "runtime": {
+          "vetor-exer1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "vetor-exer1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
