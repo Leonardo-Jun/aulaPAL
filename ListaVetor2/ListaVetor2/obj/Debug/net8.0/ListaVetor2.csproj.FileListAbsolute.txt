@@ -1,0 +1,15 @@
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\ListaVetor2\ListaVetor2\bin\Debug\net8.0\ListaVetor2.exe
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\ListaVetor2\ListaVetor2\bin\Debug\net8.0\ListaVetor2.deps.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\ListaVetor2\ListaVetor2\bin\Debug\net8.0\ListaVetor2.runtimeconfig.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\ListaVetor2\ListaVetor2\bin\Debug\net8.0\ListaVetor2.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\ListaVetor2\ListaVetor2\bin\Debug\net8.0\ListaVetor2.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\ListaVetor2\ListaVetor2\obj\Debug\net8.0\ListaVetor2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\ListaVetor2\ListaVetor2\obj\Debug\net8.0\ListaVetor2.AssemblyInfoInputs.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\ListaVetor2\ListaVetor2\obj\Debug\net8.0\ListaVetor2.AssemblyInfo.cs
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\ListaVetor2\ListaVetor2\obj\Debug\net8.0\ListaVetor2.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\ListaVetor2\ListaVetor2\obj\Debug\net8.0\ListaVetor2.sourcelink.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\ListaVetor2\ListaVetor2\obj\Debug\net8.0\ListaVetor2.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\ListaVetor2\ListaVetor2\obj\Debug\net8.0\refint\ListaVetor2.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\ListaVetor2\ListaVetor2\obj\Debug\net8.0\ListaVetor2.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\ListaVetor2\ListaVetor2\obj\Debug\net8.0\ListaVetor2.genruntimeconfig.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\ListaVetor2\ListaVetor2\obj\Debug\net8.0\ref\ListaVetor2.dll

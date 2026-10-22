@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36804.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaVetor2", "ListaVetor2\ListaVetor2.csproj", "{161285B8-DC8E-494E-AC3E-7CA1A871812F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{161285B8-DC8E-494E-AC3E-7CA1A871812F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{161285B8-DC8E-494E-AC3E-7CA1A871812F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{161285B8-DC8E-494E-AC3E-7CA1A871812F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{161285B8-DC8E-494E-AC3E-7CA1A871812F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CDBF9EC-ECF8-47FD-BC0D-C0724296A924}
+	EndGlobalSection
+EndGlobal

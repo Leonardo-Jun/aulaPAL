@@ -1,0 +1,15 @@
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\ListaVetor5\ListaVetor5\bin\Debug\net8.0\ListaVetor5.exe
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\ListaVetor5\ListaVetor5\bin\Debug\net8.0\ListaVetor5.deps.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\ListaVetor5\ListaVetor5\bin\Debug\net8.0\ListaVetor5.runtimeconfig.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\ListaVetor5\ListaVetor5\bin\Debug\net8.0\ListaVetor5.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\ListaVetor5\ListaVetor5\bin\Debug\net8.0\ListaVetor5.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\ListaVetor5\ListaVetor5\obj\Debug\net8.0\ListaVetor5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\ListaVetor5\ListaVetor5\obj\Debug\net8.0\ListaVetor5.AssemblyInfoInputs.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\ListaVetor5\ListaVetor5\obj\Debug\net8.0\ListaVetor5.AssemblyInfo.cs
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\ListaVetor5\ListaVetor5\obj\Debug\net8.0\ListaVetor5.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\ListaVetor5\ListaVetor5\obj\Debug\net8.0\ListaVetor5.sourcelink.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\ListaVetor5\ListaVetor5\obj\Debug\net8.0\ListaVetor5.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\ListaVetor5\ListaVetor5\obj\Debug\net8.0\refint\ListaVetor5.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\ListaVetor5\ListaVetor5\obj\Debug\net8.0\ListaVetor5.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\ListaVetor5\ListaVetor5\obj\Debug\net8.0\ListaVetor5.genruntimeconfig.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\ListaVetor5\ListaVetor5\obj\Debug\net8.0\ref\ListaVetor5.dll
