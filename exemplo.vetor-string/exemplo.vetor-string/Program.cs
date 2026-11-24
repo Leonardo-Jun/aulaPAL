@@ -1,4 +1,6 @@
 ﻿//criar vetores de string
+using System.ComponentModel;
+
 string[] nome = new string[3];
 //criar vetor de inteiros
 int[] idade = new int[3];

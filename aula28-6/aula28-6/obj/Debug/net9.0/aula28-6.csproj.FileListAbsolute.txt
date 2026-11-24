@@ -1,0 +1,15 @@
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\aula28-6\aula28-6\bin\Debug\net9.0\aula28-6.exe
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\aula28-6\aula28-6\bin\Debug\net9.0\aula28-6.deps.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\aula28-6\aula28-6\bin\Debug\net9.0\aula28-6.runtimeconfig.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\aula28-6\aula28-6\bin\Debug\net9.0\aula28-6.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\aula28-6\aula28-6\bin\Debug\net9.0\aula28-6.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\aula28-6\aula28-6\obj\Debug\net9.0\aula28-6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\aula28-6\aula28-6\obj\Debug\net9.0\aula28-6.AssemblyInfoInputs.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\aula28-6\aula28-6\obj\Debug\net9.0\aula28-6.AssemblyInfo.cs
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\aula28-6\aula28-6\obj\Debug\net9.0\aula28-6.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\aula28-6\aula28-6\obj\Debug\net9.0\aula28-6.sourcelink.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\aula28-6\aula28-6\obj\Debug\net9.0\aula28-6.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\aula28-6\aula28-6\obj\Debug\net9.0\refint\aula28-6.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\aula28-6\aula28-6\obj\Debug\net9.0\aula28-6.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\aula28-6\aula28-6\obj\Debug\net9.0\aula28-6.genruntimeconfig.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\aula28-6\aula28-6\obj\Debug\net9.0\ref\aula28-6.dll

@@ -1,0 +1,15 @@
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\prova-p2\prova-p2\bin\Debug\net9.0\prova-p2.exe
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\prova-p2\prova-p2\bin\Debug\net9.0\prova-p2.deps.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\prova-p2\prova-p2\bin\Debug\net9.0\prova-p2.runtimeconfig.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\prova-p2\prova-p2\bin\Debug\net9.0\prova-p2.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\prova-p2\prova-p2\bin\Debug\net9.0\prova-p2.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\prova-p2\prova-p2\obj\Debug\net9.0\prova-p2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\prova-p2\prova-p2\obj\Debug\net9.0\prova-p2.AssemblyInfoInputs.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\prova-p2\prova-p2\obj\Debug\net9.0\prova-p2.AssemblyInfo.cs
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\prova-p2\prova-p2\obj\Debug\net9.0\prova-p2.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\prova-p2\prova-p2\obj\Debug\net9.0\prova-p2.sourcelink.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\prova-p2\prova-p2\obj\Debug\net9.0\prova-p2.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\prova-p2\prova-p2\obj\Debug\net9.0\refint\prova-p2.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\prova-p2\prova-p2\obj\Debug\net9.0\prova-p2.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\prova-p2\prova-p2\obj\Debug\net9.0\prova-p2.genruntimeconfig.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\prova-p2\prova-p2\obj\Debug\net9.0\ref\prova-p2.dll

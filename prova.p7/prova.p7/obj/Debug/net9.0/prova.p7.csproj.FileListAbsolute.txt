@@ -1,0 +1,15 @@
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\prova.p7\prova.p7\bin\Debug\net9.0\prova.p7.exe
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\prova.p7\prova.p7\bin\Debug\net9.0\prova.p7.deps.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\prova.p7\prova.p7\bin\Debug\net9.0\prova.p7.runtimeconfig.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\prova.p7\prova.p7\bin\Debug\net9.0\prova.p7.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\prova.p7\prova.p7\bin\Debug\net9.0\prova.p7.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\prova.p7\prova.p7\obj\Debug\net9.0\prova.p7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\prova.p7\prova.p7\obj\Debug\net9.0\prova.p7.AssemblyInfoInputs.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\prova.p7\prova.p7\obj\Debug\net9.0\prova.p7.AssemblyInfo.cs
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\prova.p7\prova.p7\obj\Debug\net9.0\prova.p7.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\prova.p7\prova.p7\obj\Debug\net9.0\prova.p7.sourcelink.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\prova.p7\prova.p7\obj\Debug\net9.0\prova.p7.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\prova.p7\prova.p7\obj\Debug\net9.0\refint\prova.p7.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\prova.p7\prova.p7\obj\Debug\net9.0\prova.p7.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\prova.p7\prova.p7\obj\Debug\net9.0\prova.p7.genruntimeconfig.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\prova.p7\prova.p7\obj\Debug\net9.0\ref\prova.p7.dll

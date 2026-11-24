@@ -1,0 +1,15 @@
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\aula28-10\aula28-10\bin\Debug\net9.0\aula28-10.exe
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\aula28-10\aula28-10\bin\Debug\net9.0\aula28-10.deps.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\aula28-10\aula28-10\bin\Debug\net9.0\aula28-10.runtimeconfig.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\aula28-10\aula28-10\bin\Debug\net9.0\aula28-10.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\aula28-10\aula28-10\bin\Debug\net9.0\aula28-10.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\aula28-10\aula28-10\obj\Debug\net9.0\aula28-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\aula28-10\aula28-10\obj\Debug\net9.0\aula28-10.AssemblyInfoInputs.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\aula28-10\aula28-10\obj\Debug\net9.0\aula28-10.AssemblyInfo.cs
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\aula28-10\aula28-10\obj\Debug\net9.0\aula28-10.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\aula28-10\aula28-10\obj\Debug\net9.0\aula28-10.sourcelink.json
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\aula28-10\aula28-10\obj\Debug\net9.0\aula28-10.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\aula28-10\aula28-10\obj\Debug\net9.0\refint\aula28-10.dll
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\aula28-10\aula28-10\obj\Debug\net9.0\aula28-10.pdb
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\aula28-10\aula28-10\obj\Debug\net9.0\aula28-10.genruntimeconfig.cache
+C:\Users\leonardo.tateyama\OneDrive - Centro Paula Souza\Área de Trabalho\sor Luiz\aula28-10\aula28-10\obj\Debug\net9.0\ref\aula28-10.dll
